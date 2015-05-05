@@ -1,0 +1,1 @@
+These are my solutions to the book How to Program in Java.
